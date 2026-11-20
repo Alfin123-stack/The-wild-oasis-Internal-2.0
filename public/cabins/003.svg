@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 427" width="640" height="427">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9eef7"/><stop offset="1" stop-color="#c9d6ec"/></linearGradient></defs>
+<rect width="640" height="427" fill="url(#s)"/>
+<circle cx="520" cy="86" r="32" fill="#fffdf9" opacity="0.8"/>
+<path d="M0 270 L110 170 L190 230 L320 120 L450 240 L540 180 L640 250 V427 H0Z" fill="#4a5a7c" opacity="0.45"/>
+<path d="M0 300 L90 240 L180 290 L300 210 L430 300 L540 235 L640 290 V427 H0Z" fill="#2f3d63" opacity="0.5"/>
+<path d="M0 320 Q160 290 320 318 T640 308 V427 H0Z" fill="#2f5d4a" opacity="0.6"/>
+<rect x="0" y="342" width="640" height="85" fill="#2f5d4a"/>
+<polygon points="86,236 66,342 106,342" fill="#1f4636"/><polygon points="136,268 118,342 154,342" fill="#27573f"/>
+<polygon points="506,232 486,342 526,342" fill="#1f4636"/><polygon points="556,264 538,342 574,342" fill="#27573f"/>
+<g transform="translate(240,0)">
+<rect x="0" y="238" width="150" height="104" fill="#d1a96c"/>
+<polygon points="-14,240 75,172 164,240" fill="#3b2a15"/>
+<rect x="60" y="280" width="30" height="62" fill="#3b2a15"/>
+<rect x="18" y="262" width="26" height="24" fill="#fff3d6"/><rect x="106" y="262" width="26" height="24" fill="#fff3d6"/>
+<rect x="104" y="182" width="14" height="36" fill="#3b2a15"/>
+</g>
+</svg>
